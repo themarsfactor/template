@@ -1,0 +1,17 @@
+{
+    "name": "7470/paystack",
+    "autoload": {
+        "psr-4": {
+            "7470\\Paystack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yemi",
+            "email": "olayemey@gmail.com"
+        }
+    ],
+    "require": {
+        "matscode/paystack-php-sdk": "^1.9"
+    }
+}
